@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-![image](https://user-images.githubusercontent.com/46111926/186985847-28955f7d-6829-4cb8-a98e-7e4e8354b5e4.png)
 
 <!--
 **Djneto/Djneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
